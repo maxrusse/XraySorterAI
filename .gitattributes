@@ -1,1 +1,2 @@
 /content/drive/MyDrive/XraySorterAI/models/* filter=lfs diff=lfs merge=lfs -text
+variables.data* filter=lfs diff=lfs merge=lfs -text
