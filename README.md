@@ -1,7 +1,7 @@
 
 # A Deep Learning Approach for Projection and Body Side Classification in Musculoskeletal Radiographs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxrusse/XraySorterAI/blob/main/XraySorterAI_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxrusse/XraySorterAI/blob/master/XraySorterAI_Demo.ipynb)
 
 
 ## Brief:
@@ -36,7 +36,7 @@ Python version: 3.10.12
 
 ## Quick Start with Google Colab:
 
-For a hands-on demo, [click here](https://colab.research.google.com/github/maxrusse/XraySorterAI/blob/main/XraySorterAI_Demo.ipynb)
+For a hands-on demo, [click here](https://colab.research.google.com/github/maxrusse/XraySorterAI/blob/master/XraySorterAI_Demo.ipynb)
 
 ## License:
 
