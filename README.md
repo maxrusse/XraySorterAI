@@ -47,3 +47,6 @@ For a hands-on demo, [click here](https://colab.research.google.com/github/maxru
 ## License:
 
 This project is licensed under the MIT License. Please refer to the LICENSE file in the repository for more details.
+
+
+[![DOI](https://zenodo.org/badge/691215990.svg)](https://zenodo.org/badge/latestdoi/691215990)
